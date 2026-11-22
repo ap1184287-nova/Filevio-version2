@@ -1,0 +1,8 @@
+{
+  "name": "Remix FILEVIO",
+  "description": "An all-in-one, browser-based toolkit for professional PDF manipulation, conversion, and document management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
